@@ -42,3 +42,21 @@ pip install -r requirements.txt
 
 # Launch interactive dashboard
 streamlit run app.py
+```
+## 🧠 System Concept & Visual Walkthrough
+
+### 1. The Data Chaos Problem
+
+![Data Chaos](data_chaos.jpg)
+
+### 2. AI Scan & Evaluation
+
+![AI Scan](ai_scan.jpg)
+
+### 3. Smart Tiering Decisions
+
+![Smart Tiering](smart_tiering.jpg)
+
+### 4. Human Feedback Loop
+
+![Human Feedback](human_feedback.jpg)
