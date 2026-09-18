@@ -34,7 +34,7 @@ $$URI = w_1 P_{\text{future}} + w_2 C_{\text{legal}} + w_3 D_{\text{centrality}}
 
 ```bash
 # Clone the repository
-git clone [https://github.com/](https://github.com/)<your-username>/smart-lifecycle-manager.git
+git clone https://github.com/jagadeeswararaogullipalli64-crypto/smart-lifecycle-manager.git
 cd smart-lifecycle-manager
 
 # Install dependencies
