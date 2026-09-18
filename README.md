@@ -2,6 +2,11 @@
 
 An intelligent enterprise storage management engine that evaluates data utility using **semantic value, graph dependencies, and compliance requirements** instead of blunt Time-To-Live (TTL) age policies.
 
+## 🚀 Live Demo
+
+👉 [Launch the Live Application](https://smart-lifecycle-manager-fnqchcjpmsdr3zv5p6fb8p.streamlit.app/)
+
+Try the interactive AI-powered data lifecycle dashboard and explore how data is evaluated and classified based on future demand, compliance, dependency lineage, and storage cost.
 ---
 
 ## 📌 Problem Statement
